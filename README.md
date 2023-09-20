@@ -1,4 +1,4 @@
-![cover](./public/assets/readme/wizrd-1.png)
+![cover](./public/assets/readme/wizard-1.png)
 
 ---
 Welcome to Wizard AI, the official marketplace to share and discover AI prompts.
@@ -30,11 +30,11 @@ Users can search for prompts two ways:
 
 ## **Create and share Prompts**
 - Users can create and add their own prompts to share with everyone.
-![create post](./public/assets/readme/wizrd-2.png)
+![create post](./public/assets/readme/wizard-2.png)
 
 ## **Manage Posts**
 - Users can edit and manage their prompts in their profile page.
-![profile](./public/assets/readme/wizrd-3.png)
+![profile](./public/assets/readme/wizard-3.png)
 
 # **Tech Stack**
 
