@@ -30,7 +30,7 @@ Users can search for prompts two ways:
 
 ## **Create and share Prompts**
 - Users can create and add their own prompts to share with everyone.
-![create post](./public/assets/readme/wizard-2.png)
+![create post](./public/assets/readme/wizarrd-2.png)
 
 ## **Manage Posts**
 - Users can edit and manage their prompts in their profile page.
